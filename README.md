@@ -5,11 +5,11 @@ Curriculum from Scratch :
 # Data analyst Responsibilities
 Depending on their level of expertise, data analysts may:
 
-> Work with IT teams, management and/or data scientists to determine organizational goals
-> Mine data from primary and secondary sources
-> Clean and prune data to discard irrelevant information
-> Analyze and interpret results using standard statistical tools and techniques
-> Pinpoint trends, correlations and patterns in complicated data sets
-> Identify new opportunities for process improvement
-> Provide concise data reports and clear data visualizations for management
-> Design, create and maintain relational databases and data systems Triage code problems and data-related issues
+- Work with IT teams, management and/or data scientists to determine organizational goals.
+- Mine data from primary and secondary sources.
+- Clean and prune data to discard irrelevant information.
+- Analyze and interpret results using standard statistical tools and techniques.
+- Pinpoint trends, correlations and patterns in complicated data sets.
+- Identify new opportunities for process improvement.
+- Provide concise data reports and clear data visualizations for management.
+- Design, create and maintain relational databases and data systems Triage code problems and data-related issues.
